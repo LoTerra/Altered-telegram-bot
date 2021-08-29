@@ -4,5 +4,5 @@
 .data
 .node-gyp
 .env
-.glitch-asset
+.glitch-assets
 node_modules
