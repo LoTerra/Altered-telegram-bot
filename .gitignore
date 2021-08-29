@@ -1,0 +1,8 @@
+.glitchdotcom.json
+.node-gyp
+.config
+.data
+.node-gyp
+.env
+.glitch-asset
+node_modules
